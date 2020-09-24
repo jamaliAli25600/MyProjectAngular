@@ -1,0 +1,15 @@
+.vs
+MyProject.Common/bin
+MyProject.Common/obj
+MyProject.Data/bin
+MyProject.Data/obj
+MyProject.Inferastracture/bin
+MyProject.Inferastracture/obj
+MyProject.Interface/bin
+MyProject.Interface/obj
+MyProject.Presentation/bin
+MyProject.Presentation/obj
+MyProject.Repository/bin
+MyProject.Repository/obj
+MyProject.Services/bin
+MyProject.Services/obj
